@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'how_i_start_at'
+
+puts HowIStartAt::Url
